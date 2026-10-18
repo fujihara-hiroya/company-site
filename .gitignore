@@ -1,0 +1,6 @@
+# 変更前の自動バックアップ（ローカル用）
+backup/
+.claude/hooks/.backup-done
+
+# Claude Code の個人設定
+.claude/settings.local.json
